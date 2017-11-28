@@ -4,6 +4,9 @@ URL rawgit: https://rawgit.com/gorigo/lunar_lander_estatic/master/lunar.html
 
 Creo dos documentos html: uno para el juego y otro para las instrucciones del mismo. Cada documento html tiene su repectivo css para la versión de escritorio (más de 720px) y la de móvil (menos de 720px).
 
+Todas las imágenes están en la carpeta "img".
+Todos los documentos .css están en la carpeta "css"
+
 También he creado otra rama en el mismo repositorio donde he minimificado todos los documentos html y css.
 
 Se ha hecho según las especificaciones recibidas, los cambios que he hecho en las mismas se encuentran más abajo.
