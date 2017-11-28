@@ -10,7 +10,7 @@ También he creado otra rama en el mismo repositorio donde he minimificado todos
 
 Se ha hecho según las especificaciones recibidas, los cambios que he hecho en las mismas se encuentran más abajo.
 
-#Versión escritorio.
+# Versión escritorio.
 
 Marcadores hechos con html y modificados con css para ser rectangulos redondeados que pongo en la esquina izquierda superior.
 La nave en el centro
@@ -18,7 +18,7 @@ Botón para accionar los motores de la nave en la esquina derecha superior.
 Menú a la derecha, debajo del botón para encender motores, con las tres opciones que nos pedían. El diseñador lo había pensado de manera que fuera un menú desplegable en un pop-up, pero lo he cambiado por un menú que ya está desplegado para comodidad del usuario.
 La superficie de la Luna abajo del todo.
 
-#Versión móvil.
+# Versión móvil.
 
 Los marcadores pasan arriba, dentro de un div con fondo negro, tal y como quería el diseñador, con un diseño más simple acorde con los móviles.
 La nave sigue en la misma posición.
