@@ -1,0 +1,38 @@
+body{
+	background-image: url(../img/fondodepantalla.jpg);
+	height:100%;
+	padding:0px;
+	margin:0px;
+	background-size:cover;
+}
+.centro{
+	text-align:center;
+	position:fixed;
+	width:100%;
+	height:20%;
+	color:#ffa183;
+	font-size:3vw
+}
+#menu{
+	border-radius: 20px;
+    border: 2px solid white;
+	width:200px;
+	position:absolute;
+	right:0%;
+	top:15%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover:not(.active) {
+	background-color: white;
+	color:black;
+}
